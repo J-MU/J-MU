@@ -1,6 +1,5 @@
 <div align="center">
 
-## J-MU GitHub 
 
 ![reversal](https://capsule-render.vercel.app/api?type=Waving&height=200&color=0:42a1f8,100:b79dfa&text=GitHub%20of%20J-MU&fontSize=45&fontColor=FFFFFF)
 
