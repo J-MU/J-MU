@@ -21,7 +21,8 @@
 </br></br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=J-MU&show_icons=true&theme=cobalt)](https://github.com/J-MU/github-readme-stats)
-
+</br></br>
+[![Uk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=J-MU&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/J-MU)
 
 
 </div>
