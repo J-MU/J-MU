@@ -7,7 +7,7 @@ MAX_POST = 7
 markdown_text = """
 ## ✅ Latest Blog Post
 
-매일 10시경 최신 블로그 포스트로 업데이트 됩니다.
+매일 아침 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
