@@ -6,8 +6,8 @@
 devBolog : https://ayaan-dev.tistory.com/</br>
 
 ## :trophy: Achievement
-1. Ne(o)rdinary Hackathon: 1등 수상 
-[발표자료](https://www.miricanvas.com/ko/v/11f5vy2) 
+1. Ne(o)rdinary Hackathon: 1등 수상
+[발표자료](https://www.miricanvas.com/ko/v/11f5vy2)
 [상장 확인하기](https://drive.google.com/file/d/1lIbfyaiX8vsT9ZIpNFewcprSOEZ4697D/view?usp=sharing)
 ## :memo: Ongoing Project
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 프로젝트 설명페이지 |
@@ -25,4 +25,4 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ-MU&count_bg=%230C9BF7&title_bg=%2369D2F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
