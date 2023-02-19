@@ -32,6 +32,8 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 [2023/01/04 - 실시간 CPU 스케줄링](https://ayaan-dev.tistory.com/8) <br/>
 [2022/12/31 - 삽입 정렬(Insertion Sort)](https://ayaan-dev.tistory.com/7) <br/>
 [2022/12/31 - 선택 정렬(Selection Sort)](https://ayaan-dev.tistory.com/6) <br/>
+[2022/12/28 - CPU 스케줄링(CPU Scheduling)](https://ayaan-dev.tistory.com/5) <br/>
+[2022/12/28 - Thread -1(Thread vs Process)](https://ayaan-dev.tistory.com/4) <br/>
 
 <!-- End blog -->
 </br>
