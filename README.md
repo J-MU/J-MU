@@ -6,7 +6,9 @@
 devBolog : https://ayaan-dev.tistory.com/</br>
 
 ## :trophy: Achievement
-Ne(o)rdinary Hackathon: 1등 수상 [발표자료](https://www.miricanvas.com/ko/v/11f5vy2)
+1. Ne(o)rdinary Hackathon: 1등 수상 
+[발표자료](https://www.miricanvas.com/ko/v/11f5vy2) 
+[상장 확인하기](https://drive.google.com/file/d/1lIbfyaiX8vsT9ZIpNFewcprSOEZ4697D/view?usp=sharing)
 ## :memo: Ongoing Project
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 프로젝트 설명페이지 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
