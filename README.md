@@ -26,7 +26,7 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 
 ## ✅ Latest Blog Post
 
-매일 10시경 최신 블로그 포스트로 업데이트 됩니다.
+매일 아침 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
 [1. 2023/02/15 - JPA Entity Unique key지정 방식 비교](https://ayaan-dev.tistory.com/11) <br/>
 [2. 2023/02/14 - 동등성(Equality) VS 동일성(Identity)](https://ayaan-dev.tistory.com/10) <br/>
 [3. 2023/01/05 - 다중 스레드 모델(Multithreading Models)](https://ayaan-dev.tistory.com/9) <br/>
