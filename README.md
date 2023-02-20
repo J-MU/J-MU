@@ -26,7 +26,7 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 
 ## ✅ Latest Blog Post
 
-매일 아침 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
+매일 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
 [1. 2023/02/15 - JPA Entity Unique key지정 방식 비교](https://ayaan-dev.tistory.com/11) <br/>
 [2. 2023/02/14 - 동등성(Equality) VS 동일성(Identity)](https://ayaan-dev.tistory.com/10) <br/>
 [3. 2023/01/05 - 다중 스레드 모델(Multithreading Models)](https://ayaan-dev.tistory.com/9) <br/>
@@ -34,13 +34,23 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 [5. 2022/12/31 - 삽입 정렬(Insertion Sort)](https://ayaan-dev.tistory.com/7) <br/>
 [6. 2022/12/31 - 선택 정렬(Selection Sort)](https://ayaan-dev.tistory.com/6) <br/>
 [7. 2022/12/28 - CPU 스케줄링(CPU Scheduling)](https://ayaan-dev.tistory.com/5) <br/>
-[8. 2022/12/28 - Thread -1(Thread vs Process)](https://ayaan-dev.tistory.com/4) <br/>
 
 <!-- End blog -->
 </br>
 
 <!-- Start BaekJoon -->
-123
+
+## ✅ Latest Solved Baekjoon
+
+매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1181. 단어 정렬-2023-01-06](https://www.acmicpc.net//problem/1181) <br/>
+[1085. 직사각형에서 탈출-2023-01-06](https://www.acmicpc.net//problem/1085) <br/>
+[2667. 단지번호붙이기-2022-12-30](https://www.acmicpc.net//problem/2667) <br/>
+[10871. X보다 작은 수-2022-12-29](https://www.acmicpc.net//problem/10871) <br/>
+[10172. 개-2022-12-29](https://www.acmicpc.net//problem/10172) <br/>
+[10171. 고양이-2022-12-29](https://www.acmicpc.net//problem/10171) <br/>
+[3052. 나머지-2022-12-29](https://www.acmicpc.net//problem/3052) <br/>
+
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
 
