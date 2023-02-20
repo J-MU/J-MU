@@ -1,7 +1,7 @@
 import feedparser, time
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from html_table_parser import parser_functions
+
 
 
 URL = "https://ayaan-dev.tistory.com/rss"
