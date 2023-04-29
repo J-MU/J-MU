@@ -18,7 +18,7 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 |번호| 제목|저자| 분류 | 이미지 | 진도 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|혼자 공부하는 컴퓨터 구조+운영체제|강민철|운영체제/컴퓨터구조|![혼컴운](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSD5jKvCZwQWzNq3r3pTeiewPFwdAs0JFSEy79HPRplqqnDGyjcVq7ilPF0W50xMbI-q6cdIrOqKXI&usqp=CAc)| 50% |
-|2|자바 ORM 표준 JPA 프로그래밍|김영한|JAVA|![JPA](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBikRXsqteoGn7DkXgFmJBc-ymt-HuBvjGMDuPPyhYZ4pWkISenTwl5x-umkIC-yhqIvZJu90dJM4&usqp=CAc)| 79% |
+|2|자바 ORM 표준 JPA 프로그래밍|김영한|JAVA|![JPA](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBikRXsqteoGn7DkXgFmJBc-ymt-HuBvjGMDuPPyhYZ4pWkISenTwl5x-umkIC-yhqIvZJu90dJM4&usqp=CAc)| 88% |
 |3|이것이 취업을 위한 코딩 테스트다 with 파이썬|나동빈| 알고리즘 | ![이코테](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf7GdbuunEPB-4I1Gmc5mmmVS4FUudDyEtQ&usqp=CAU)| 46% |
 <!-- </div> -->
 </br>
