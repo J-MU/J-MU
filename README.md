@@ -14,16 +14,6 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1| 팟팅 | JAVA | Spring Boot | 일회성 만남 어플입니다. 사용자들이 원할때 언제든 근처 취미가 맞는 사람들과 모임을 개설하고 만날 수 있도록 서비스를 제공합니다. 5월 서비스를 목표로 개발중입니다| AOS (5월) IOS (9월) | Private| 준비중|
 
-## :green_book: Reading Book
-|번호| 제목|저자| 분류 | 이미지 | 진도 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|혼자 공부하는 컴퓨터 구조+운영체제|강민철|운영체제/컴퓨터구조|![혼컴운](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSD5jKvCZwQWzNq3r3pTeiewPFwdAs0JFSEy79HPRplqqnDGyjcVq7ilPF0W50xMbI-q6cdIrOqKXI&usqp=CAc)| 50% |
-|2|자바 ORM 표준 JPA 프로그래밍|김영한|JAVA|![JPA](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBikRXsqteoGn7DkXgFmJBc-ymt-HuBvjGMDuPPyhYZ4pWkISenTwl5x-umkIC-yhqIvZJu90dJM4&usqp=CAc)| 88% |
-|3|이것이 취업을 위한 코딩 테스트다 with 파이썬|나동빈| 알고리즘 | ![이코테](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf7GdbuunEPB-4I1Gmc5mmmVS4FUudDyEtQ&usqp=CAU)| 46% |
-<!-- </div> -->
-</br>
-<!-- Start blog -->
-
 ## ✅ Latest Blog Post
 
 매일 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
