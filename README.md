@@ -13,7 +13,7 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 프로젝트 설명페이지 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1| 팟팅 | JAVA | Spring Boot | 일회성 만남 어플입니다. 사용자들이 원할때 언제든 근처 취미가 맞는 사람들과 모임을 개설하고 만날 수 있도록 서비스를 제공합니다. 5월 서비스를 목표로 개발중입니다| AOS (5월) IOS (9월) | Private| 준비중|
-|2| Prostargram | JAVA | Spring Boot | F-lab 멘토링에서 진행하고 있는 프로젝트입니다. 개발자의 SNS라는 컨셉에 맞춰 작업중입니다. | Web(준비 중) | [Repo](https://github.com/f-lab-edu/Prostargram)| [링크](https://github.com/f-lab-edu/Prostargram/wiki) |
+|2| Prostargram | JAVA | Spring Boot | F-lab 멘토링에서 진행하고 있는 프로젝트입니다. 개발자의 SNS라는 컨셉에 맞춰 작업중입니다. | Web (준비 중) | [Repo](https://github.com/f-lab-edu/Prostargram)| [링크](https://github.com/f-lab-edu/Prostargram/wiki) |
 
 ## ✅ Latest Blog Post
 
