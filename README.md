@@ -34,13 +34,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1966. 프린터 큐-2023-10-19](https://www.acmicpc.net//problem/1966) <br/>
+[10773. 제로-2023-10-18](https://www.acmicpc.net//problem/10773) <br/>
+[2839. 설탕 배달-2023-10-18](https://www.acmicpc.net//problem/2839) <br/>
 [1015. 수열 정렬-2023-06-21](https://www.acmicpc.net//problem/1015) <br/>
 [1181. 단어 정렬-2023-01-06](https://www.acmicpc.net//problem/1181) <br/>
 [1085. 직사각형에서 탈출-2023-01-06](https://www.acmicpc.net//problem/1085) <br/>
 [2667. 단지번호붙이기-2022-12-30](https://www.acmicpc.net//problem/2667) <br/>
-[10871. X보다 작은 수-2022-12-29](https://www.acmicpc.net//problem/10871) <br/>
-[10172. 개-2022-12-29](https://www.acmicpc.net//problem/10172) <br/>
-[10171. 고양이-2022-12-29](https://www.acmicpc.net//problem/10171) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
