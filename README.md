@@ -34,13 +34,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[2210. 숫자판 점프-2023-10-27](https://www.acmicpc.net//problem/2210) <br/>
+[2143. 두 배열의 합-2023-10-26](https://www.acmicpc.net//problem/2143) <br/>
+[2003. 수들의 합 2-2023-10-26](https://www.acmicpc.net//problem/2003) <br/>
+[1806. 부분합-2023-10-26](https://www.acmicpc.net//problem/1806) <br/>
+[1644. 소수의 연속합-2023-10-26](https://www.acmicpc.net//problem/1644) <br/>
+[1182. 부분수열의 합-2023-10-26](https://www.acmicpc.net//problem/1182) <br/>
 [1476. 날짜 계산-2023-10-24](https://www.acmicpc.net//problem/1476) <br/>
-[2309. 일곱 난쟁이-2023-10-23](https://www.acmicpc.net//problem/2309) <br/>
-[10250. ACM 호텔-2023-10-23](https://www.acmicpc.net//problem/10250) <br/>
-[27866. 문자와 문자열-2023-10-23](https://www.acmicpc.net//problem/27866) <br/>
-[25083. 새싹-2023-10-23](https://www.acmicpc.net//problem/25083) <br/>
-[10828. 스택-2023-10-22](https://www.acmicpc.net//problem/10828) <br/>
-[2869. 달팽이는 올라가고 싶다-2023-10-22](https://www.acmicpc.net//problem/2869) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
