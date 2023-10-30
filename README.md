@@ -34,13 +34,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[2138. 전구와 스위치-2023-10-29](https://www.acmicpc.net//problem/2138) <br/>
+[1080. 행렬-2023-10-29](https://www.acmicpc.net//problem/1080) <br/>
+[11399. ATM-2023-10-29](https://www.acmicpc.net//problem/11399) <br/>
 [2210. 숫자판 점프-2023-10-27](https://www.acmicpc.net//problem/2210) <br/>
 [2143. 두 배열의 합-2023-10-26](https://www.acmicpc.net//problem/2143) <br/>
 [2003. 수들의 합 2-2023-10-26](https://www.acmicpc.net//problem/2003) <br/>
 [1806. 부분합-2023-10-26](https://www.acmicpc.net//problem/1806) <br/>
-[1644. 소수의 연속합-2023-10-26](https://www.acmicpc.net//problem/1644) <br/>
-[1182. 부분수열의 합-2023-10-26](https://www.acmicpc.net//problem/1182) <br/>
-[1476. 날짜 계산-2023-10-24](https://www.acmicpc.net//problem/1476) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
