@@ -34,13 +34,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1037. 약수-2023-11-05](https://www.acmicpc.net//problem/1037) <br/>
+[10430. 나머지-2023-11-05](https://www.acmicpc.net//problem/10430) <br/>
 [1707. 이분 그래프-2023-11-04](https://www.acmicpc.net//problem/1707) <br/>
 [7576. 토마토-2023-11-04](https://www.acmicpc.net//problem/7576) <br/>
 [7562. 나이트의 이동-2023-11-03](https://www.acmicpc.net//problem/7562) <br/>
 [10866. 덱-2023-11-03](https://www.acmicpc.net//problem/10866) <br/>
 [10845. 큐-2023-11-03](https://www.acmicpc.net//problem/10845) <br/>
-[13913. 숨바꼭질 4-2023-11-01](https://www.acmicpc.net//problem/13913) <br/>
-[1697. 숨바꼭질-2023-11-01](https://www.acmicpc.net//problem/1697) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
