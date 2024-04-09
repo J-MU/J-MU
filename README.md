@@ -34,13 +34,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[2885. 초콜릿 식사-2024-04-08](https://www.acmicpc.net//problem/2885) <br/>
 [15903. 카드 합체 놀이-2024-04-06](https://www.acmicpc.net//problem/15903) <br/>
 [1922. 네트워크 연결-2024-04-05](https://www.acmicpc.net//problem/1922) <br/>
 [1197. 최소 스패닝 트리-2024-04-05](https://www.acmicpc.net//problem/1197) <br/>
 [11724. 연결 요소의 개수-2024-04-04](https://www.acmicpc.net//problem/11724) <br/>
 [2606. 바이러스-2024-04-03](https://www.acmicpc.net//problem/2606) <br/>
 [1976. 여행 가자-2024-03-31](https://www.acmicpc.net//problem/1976) <br/>
-[1717. 집합의 표현-2024-03-31](https://www.acmicpc.net//problem/1717) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
