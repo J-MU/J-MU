@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[11497. 통나무 건너뛰기-2024-04-11](https://www.acmicpc.net//problem/11497) <br/>
+[1783. 병든 나이트-2024-04-11](https://www.acmicpc.net//problem/1783) <br/>
 [1455. 뒤집기 II-2024-04-10](https://www.acmicpc.net//problem/1455) <br/>
 [1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
 [1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
 [1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
 [2885. 초콜릿 식사-2024-04-08](https://www.acmicpc.net//problem/2885) <br/>
-[15903. 카드 합체 놀이-2024-04-06](https://www.acmicpc.net//problem/15903) <br/>
-[1922. 네트워크 연결-2024-04-05](https://www.acmicpc.net//problem/1922) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
