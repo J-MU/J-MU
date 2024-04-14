@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[18111. 마인크래프트-2024-04-14](https://www.acmicpc.net//problem/18111) <br/>
+[11866. 요세푸스 문제 0-2024-04-14](https://www.acmicpc.net//problem/11866) <br/>
+[1244. 스위치 켜고 끄기-2024-04-13](https://www.acmicpc.net//problem/1244) <br/>
+[1713. 후보 추천하기-2024-04-13](https://www.acmicpc.net//problem/1713) <br/>
+[2578. 빙고-2024-04-13](https://www.acmicpc.net//problem/2578) <br/>
+[13335. 트럭-2024-04-13](https://www.acmicpc.net//problem/13335) <br/>
 [11497. 통나무 건너뛰기-2024-04-11](https://www.acmicpc.net//problem/11497) <br/>
-[1783. 병든 나이트-2024-04-11](https://www.acmicpc.net//problem/1783) <br/>
-[1455. 뒤집기 II-2024-04-10](https://www.acmicpc.net//problem/1455) <br/>
-[1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
-[1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
-[1541. 잃어버린 괄호-2024-04-10](https://www.acmicpc.net//problem/1541) <br/>
-[2885. 초콜릿 식사-2024-04-08](https://www.acmicpc.net//problem/2885) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
