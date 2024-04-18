@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[2775. 부녀회장이 될테야-2024-04-17](https://www.acmicpc.net//problem/2775) <br/>
 [2615. 오목-2024-04-16](https://www.acmicpc.net//problem/2615) <br/>
 [2615. 오목-2024-04-16](https://www.acmicpc.net//problem/2615) <br/>
 [2615. 오목-2024-04-16](https://www.acmicpc.net//problem/2615) <br/>
 [18111. 마인크래프트-2024-04-14](https://www.acmicpc.net//problem/18111) <br/>
 [11866. 요세푸스 문제 0-2024-04-14](https://www.acmicpc.net//problem/11866) <br/>
 [1244. 스위치 켜고 끄기-2024-04-13](https://www.acmicpc.net//problem/1244) <br/>
-[1713. 후보 추천하기-2024-04-13](https://www.acmicpc.net//problem/1713) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
