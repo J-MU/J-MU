@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1325. 효율적인 해킹-2024-04-24](https://www.acmicpc.net//problem/1325) <br/>
+[1325. 효율적인 해킹-2024-04-24](https://www.acmicpc.net//problem/1325) <br/>
 [9019. DSLR-2024-04-21](https://www.acmicpc.net//problem/9019) <br/>
 [2468. 안전 영역-2024-04-21](https://www.acmicpc.net//problem/2468) <br/>
 [5014. 스타트링크-2024-04-21](https://www.acmicpc.net//problem/5014) <br/>
 [11403. 경로 찾기-2024-04-21](https://www.acmicpc.net//problem/11403) <br/>
 [16948. 데스 나이트-2024-04-21](https://www.acmicpc.net//problem/16948) <br/>
-[17086. 아기 상어 2-2024-04-21](https://www.acmicpc.net//problem/17086) <br/>
-[17086. 아기 상어 2-2024-04-21](https://www.acmicpc.net//problem/17086) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
