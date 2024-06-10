@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
-[1676. 팩토리얼 0의 개수-2024-04-25](https://www.acmicpc.net//problem/1676) <br/>
-[2473. 세 용액-2024-04-25](https://www.acmicpc.net//problem/2473) <br/>
-[1744. 수 묶기-2024-04-25](https://www.acmicpc.net//problem/1744) <br/>
-[1141. 접두사-2024-04-25](https://www.acmicpc.net//problem/1141) <br/>
-[2075. N번째 큰 수-2024-04-25](https://www.acmicpc.net//problem/2075) <br/>
-[10989. 수 정렬하기 3-2024-04-25](https://www.acmicpc.net//problem/10989) <br/>
-[10989. 수 정렬하기 3-2024-04-25](https://www.acmicpc.net//problem/10989) <br/>
+[1647. 도시 분할 계획-2024-06-06](https://www.acmicpc.net//problem/1647) <br/>
+[16398. 행성 연결-2024-06-06](https://www.acmicpc.net//problem/16398) <br/>
+[6497. 전력난-2024-06-06](https://www.acmicpc.net//problem/6497) <br/>
+[1043. 거짓말-2024-06-06](https://www.acmicpc.net//problem/1043) <br/>
+[5107. 마니또-2024-06-06](https://www.acmicpc.net//problem/5107) <br/>
+[24542. 튜터-튜티 관계의 수-2024-06-06](https://www.acmicpc.net//problem/24542) <br/>
+[24542. 튜터-튜티 관계의 수-2024-06-06](https://www.acmicpc.net//problem/24542) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
