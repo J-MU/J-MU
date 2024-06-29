@@ -37,13 +37,13 @@ devBolog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[15654. N과 M (5)-2024-06-28](https://www.acmicpc.net//problem/15654) <br/>
+[15652. N과 M (4)-2024-06-28](https://www.acmicpc.net//problem/15652) <br/>
 [14502. 연구소-2024-06-27](https://www.acmicpc.net//problem/14502) <br/>
 [14502. 연구소-2024-06-27](https://www.acmicpc.net//problem/14502) <br/>
 [18405. 경쟁적 전염-2024-06-21](https://www.acmicpc.net//problem/18405) <br/>
 [1647. 도시 분할 계획-2024-06-06](https://www.acmicpc.net//problem/1647) <br/>
 [16398. 행성 연결-2024-06-06](https://www.acmicpc.net//problem/16398) <br/>
-[6497. 전력난-2024-06-06](https://www.acmicpc.net//problem/6497) <br/>
-[1043. 거짓말-2024-06-06](https://www.acmicpc.net//problem/1043) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
