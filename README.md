@@ -3,7 +3,7 @@
 개발 닉네임 :  Ayaan(이안)</br>
 이메일 : alsdnrdl001@gmail.com</br>
 소속 : 경북대학교 컴퓨터학부</br>
-devBolog : https://ayaan-dev.tistory.com/</br>
+devBlog : https://ayaan-dev.tistory.com/</br>
 
 ## :trophy: Achievement
 1. Ne(o)rdinary Hackathon: 1등 수상
