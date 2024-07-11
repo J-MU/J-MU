@@ -37,13 +37,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1949. 우수 마을-2024-07-11](https://www.acmicpc.net//problem/1949) <br/>
+[2533. 사회망 서비스(SNS)-2024-07-11](https://www.acmicpc.net//problem/2533) <br/>
 [15666. N과 M (12)-2024-07-04](https://www.acmicpc.net//problem/15666) <br/>
 [2661. 좋은수열-2024-07-04](https://www.acmicpc.net//problem/2661) <br/>
 [1038. 감소하는 수-2024-07-04](https://www.acmicpc.net//problem/1038) <br/>
 [15270. 친구 팰린드롬-2024-07-03](https://www.acmicpc.net//problem/15270) <br/>
 [15663. N과 M (9)-2024-07-01](https://www.acmicpc.net//problem/15663) <br/>
-[15654. N과 M (5)-2024-06-28](https://www.acmicpc.net//problem/15654) <br/>
-[15652. N과 M (4)-2024-06-28](https://www.acmicpc.net//problem/15652) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
