@@ -37,13 +37,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[19951. 태상이의 훈련소 생활-2024-07-14](https://www.acmicpc.net//problem/19951) <br/>
 [28018. 시간이 겹칠까?-2024-07-11](https://www.acmicpc.net//problem/28018) <br/>
 [11659. 구간 합 구하기 4-2024-07-11](https://www.acmicpc.net//problem/11659) <br/>
 [28018. 시간이 겹칠까?-2024-07-11](https://www.acmicpc.net//problem/28018) <br/>
 [1949. 우수 마을-2024-07-11](https://www.acmicpc.net//problem/1949) <br/>
 [2533. 사회망 서비스(SNS)-2024-07-11](https://www.acmicpc.net//problem/2533) <br/>
 [15666. N과 M (12)-2024-07-04](https://www.acmicpc.net//problem/15666) <br/>
-[2661. 좋은수열-2024-07-04](https://www.acmicpc.net//problem/2661) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
