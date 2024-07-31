@@ -37,11 +37,11 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[16236. 아기 상어-2024-07-30](https://www.acmicpc.net//problem/16236) <br/>
 [5052. 전화번호 목록-2024-07-25](https://www.acmicpc.net//problem/5052) <br/>
 [12100. 2048 (Easy)-2024-07-25](https://www.acmicpc.net//problem/12100) <br/>
 [20055. 컨베이어 벨트 위의 로봇-2024-07-25](https://www.acmicpc.net//problem/20055) <br/>
 [9663. N-Queen-2024-07-22](https://www.acmicpc.net//problem/9663) <br/>
-[1987. 알파벳-2024-07-22](https://www.acmicpc.net//problem/1987) <br/>
 [1987. 알파벳-2024-07-22](https://www.acmicpc.net//problem/1987) <br/>
 [1987. 알파벳-2024-07-22](https://www.acmicpc.net//problem/1987) <br/>
 
