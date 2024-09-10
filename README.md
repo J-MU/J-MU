@@ -37,13 +37,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[1700. 멀티탭 스케줄링-2024-09-09](https://www.acmicpc.net//problem/1700) <br/>
+[15684. 사다리 조작-2024-09-09](https://www.acmicpc.net//problem/15684) <br/>
+[13460. 구슬 탈출 2-2024-09-09](https://www.acmicpc.net//problem/13460) <br/>
 [20366. 같이 눈사람 만들래?-2024-09-02](https://www.acmicpc.net//problem/20366) <br/>
 [20366. 같이 눈사람 만들래?-2024-09-02](https://www.acmicpc.net//problem/20366) <br/>
 [15683. 감시-2024-08-31](https://www.acmicpc.net//problem/15683) <br/>
 [1715. 카드 정렬하기-2024-08-29](https://www.acmicpc.net//problem/1715) <br/>
-[14890. 경사로-2024-08-29](https://www.acmicpc.net//problem/14890) <br/>
-[14890. 경사로-2024-08-29](https://www.acmicpc.net//problem/14890) <br/>
-[14888. 연산자 끼워넣기-2024-08-25](https://www.acmicpc.net//problem/14888) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
