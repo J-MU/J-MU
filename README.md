@@ -37,13 +37,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[17825. 주사위 윷놀이-2024-10-07](https://www.acmicpc.net//problem/17825) <br/>
+[1005. ACM Craft-2024-10-07](https://www.acmicpc.net//problem/1005) <br/>
+[17822. 원판 돌리기-2024-10-07](https://www.acmicpc.net//problem/17822) <br/>
 [17142. 연구소 3-2024-10-07](https://www.acmicpc.net//problem/17142) <br/>
 [18430. 무기 공학-2024-09-30](https://www.acmicpc.net//problem/18430) <br/>
 [17837. 새로운 게임 2-2024-09-30](https://www.acmicpc.net//problem/17837) <br/>
 [17140. 이차원 배열과 연산-2024-09-30](https://www.acmicpc.net//problem/17140) <br/>
-[7662. 이중 우선순위 큐-2024-09-23](https://www.acmicpc.net//problem/7662) <br/>
-[17144. 미세먼지 안녕!-2024-09-23](https://www.acmicpc.net//problem/17144) <br/>
-[16235. 나무 재테크-2024-09-23](https://www.acmicpc.net//problem/16235) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
