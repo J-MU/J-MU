@@ -38,13 +38,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[20057. 마법사 상어와 토네이도-2024-11-04](https://www.acmicpc.net//problem/20057) <br/>
+[23289. 온풍기 안녕!-2024-11-04](https://www.acmicpc.net//problem/23289) <br/>
 [16236. 아기 상어-2024-10-21](https://www.acmicpc.net//problem/16236) <br/>
 [23288. 주사위 굴리기 2-2024-10-14](https://www.acmicpc.net//problem/23288) <br/>
 [17825. 주사위 윷놀이-2024-10-07](https://www.acmicpc.net//problem/17825) <br/>
 [1005. ACM Craft-2024-10-07](https://www.acmicpc.net//problem/1005) <br/>
 [17822. 원판 돌리기-2024-10-07](https://www.acmicpc.net//problem/17822) <br/>
-[17142. 연구소 3-2024-10-07](https://www.acmicpc.net//problem/17142) <br/>
-[18430. 무기 공학-2024-09-30](https://www.acmicpc.net//problem/18430) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
