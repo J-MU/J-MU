@@ -38,13 +38,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
-[11000. 강의실 배정-2024-11-11](https://www.acmicpc.net//problem/11000) <br/>
-[20056. 마법사 상어와 파이어볼-2024-11-11](https://www.acmicpc.net//problem/20056) <br/>
-[20056. 마법사 상어와 파이어볼-2024-11-11](https://www.acmicpc.net//problem/20056) <br/>
-[18430. 무기 공학-2024-11-10](https://www.acmicpc.net//problem/18430) <br/>
-[20057. 마법사 상어와 토네이도-2024-11-04](https://www.acmicpc.net//problem/20057) <br/>
-[23289. 온풍기 안녕!-2024-11-04](https://www.acmicpc.net//problem/23289) <br/>
-[16236. 아기 상어-2024-10-21](https://www.acmicpc.net//problem/16236) <br/>
+[14501. 퇴사-2024-11-26](https://www.acmicpc.net//problem/14501) <br/>
+[13458. 시험 감독-2024-11-26](https://www.acmicpc.net//problem/13458) <br/>
+[23291. 어항 정리-2024-11-26](https://www.acmicpc.net//problem/23291) <br/>
+[20058. 마법사 상어와 파이어스톰-2024-11-25](https://www.acmicpc.net//problem/20058) <br/>
+[17404. RGB거리 2-2024-11-25](https://www.acmicpc.net//problem/17404) <br/>
+[2470. 두 용액-2024-11-25](https://www.acmicpc.net//problem/2470) <br/>
+[2467. 용액-2024-11-25](https://www.acmicpc.net//problem/2467) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
