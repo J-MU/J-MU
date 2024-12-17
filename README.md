@@ -38,13 +38,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[23290. 마법사 상어와 복제-2024-12-16](https://www.acmicpc.net//problem/23290) <br/>
+[21611. 마법사 상어와 블리자드-2024-12-16](https://www.acmicpc.net//problem/21611) <br/>
+[21610. 마법사 상어와 비바라기-2024-12-16](https://www.acmicpc.net//problem/21610) <br/>
 [21608. 상어 초등학교-2024-12-02](https://www.acmicpc.net//problem/21608) <br/>
 [14501. 퇴사-2024-11-26](https://www.acmicpc.net//problem/14501) <br/>
 [13458. 시험 감독-2024-11-26](https://www.acmicpc.net//problem/13458) <br/>
 [23291. 어항 정리-2024-11-26](https://www.acmicpc.net//problem/23291) <br/>
-[20058. 마법사 상어와 파이어스톰-2024-11-25](https://www.acmicpc.net//problem/20058) <br/>
-[17404. RGB거리 2-2024-11-25](https://www.acmicpc.net//problem/17404) <br/>
-[2470. 두 용액-2024-11-25](https://www.acmicpc.net//problem/2470) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
