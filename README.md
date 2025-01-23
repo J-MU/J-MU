@@ -12,7 +12,7 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 2. 대구를 빛내는 SW해커톤(교내 해커톤) : 우수상 수상
 [상장 확인하기](https://drive.google.com/file/d/1NPgiw7Nzi1CCH-WPSCR4yxBarXx6gKR6/view?usp=sharing)
 3. Goricon(교내 알고리즘 대회) : 장려상 수상
-[상장 확인하기](업데이트 예정)
+[상장 확인하기](https://drive.google.com/file/d/19d-NbL1NZXDrGgy0-k9B-6Q8hddZcq7o/view?usp=sharing)
 
 ## :memo: Ongoing Project
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 프로젝트 설명페이지 |
