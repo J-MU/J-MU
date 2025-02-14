@@ -21,20 +21,6 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 |2| Race-On | JAVA | Spring Boot | 친구끼리의 경쟁형 러닝 앱 프로젝트입니다. 출시를 목표로 개발하고 있습니다. | AOS/IOS <br> (준비 중) | Private | 준비중 |
 
 
-## ✅ Latest Blog Post
-
-매일 10시경 최신 블로그 포스트로 업데이트 됩니다.</br>
-[1. 2023/05/30 - 객체 지향 설계의 5원칙(SOLID)](https://ayaan-dev.tistory.com/14) <br/>
-[2. 2023/04/11 - [JAVA] Singleton 패턴에 대해 알아보자](https://ayaan-dev.tistory.com/13) <br/>
-[3. 2023/04/03 - String vs StringBuffer vs StringBuilder](https://ayaan-dev.tistory.com/12) <br/>
-[4. 2023/02/15 - JPA Entity Unique key지정 방식 비교](https://ayaan-dev.tistory.com/11) <br/>
-[5. 2023/02/14 - 동등성(Equality) VS 동일성(Identity)](https://ayaan-dev.tistory.com/10) <br/>
-[6. 2023/01/05 - 다중 스레드 모델(Multithreading Models)](https://ayaan-dev.tistory.com/9) <br/>
-[7. 2023/01/04 - 실시간 CPU 스케줄링](https://ayaan-dev.tistory.com/8) <br/>
-
-<!-- End blog -->
-</br>
-
 <!-- Start BaekJoon -->
 
 ## ✅ Latest Solved Baekjoon
