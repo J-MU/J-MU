@@ -26,13 +26,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[10775. 공항-2025-03-17](https://www.acmicpc.net//problem/10775) <br/>
+[4195. 친구 네트워크-2025-03-17](https://www.acmicpc.net//problem/4195) <br/>
 [1766. 문제집-2025-02-10](https://www.acmicpc.net//problem/1766) <br/>
 [12865. 평범한 배낭-2025-02-10](https://www.acmicpc.net//problem/12865) <br/>
 [1253. 좋다-2025-02-10](https://www.acmicpc.net//problem/1253) <br/>
 [2143. 두 배열의 합-2025-02-10](https://www.acmicpc.net//problem/2143) <br/>
 [9184. 신나는 함수 실행-2025-02-10](https://www.acmicpc.net//problem/9184) <br/>
-[6236. 용돈 관리-2025-02-10](https://www.acmicpc.net//problem/6236) <br/>
-[16946. 벽 부수고 이동하기 4-2025-01-07](https://www.acmicpc.net//problem/16946) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
