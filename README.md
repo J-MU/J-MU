@@ -17,10 +17,10 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 
 
 ## :memo: Ongoing Project
-|번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 프로젝트 설명페이지 |
+|번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명|  깃헙 | 프로젝트 설명페이지 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1| Prostargram | JAVA | Spring Boot | F-lab 멘토링에서 진행하고 있는 프로젝트입니다. 개발자의 SNS라는 컨셉에 맞춰 작업중입니다. |  | [Repo](https://github.com/f-lab-edu/Prostargram) | [링크](https://github.com/f-lab-edu/Prostargram/wiki) |
-|2| Race-On | JAVA | Spring Boot | 친구끼리의 경쟁형 러닝 앱 프로젝트입니다. 출시를 목표로 개발하고 있습니다. |  | [Repo](https://github.com/RaceOnProject/RaceOn-Server) | 준비중 |
+|1| Prostargram | JAVA | Spring Boot | F-lab 멘토링에서 진행하고 있는 프로젝트입니다. 개발자의 SNS라는 컨셉에 맞춰 작업중입니다. |   [Repo](https://github.com/f-lab-edu/Prostargram) | [링크](https://github.com/f-lab-edu/Prostargram/wiki) |
+|2| Race-On | JAVA | Spring Boot | 친구끼리의 경쟁형 러닝 앱 프로젝트입니다. 출시를 목표로 개발하고 있습니다. |   [Repo](https://github.com/RaceOnProject/RaceOn-Server) | 준비중 |
 
 
 <!-- Start BaekJoon -->
