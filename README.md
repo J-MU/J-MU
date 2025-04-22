@@ -28,13 +28,13 @@ devBlog : https://ayaan-dev.tistory.com/</br>
 ## ✅ Latest Solved Baekjoon
 
 매일 10시경 최신 기록으로 업데이트 됩니다.</br>
+[12865. 평범한 배낭-2025-04-21](https://www.acmicpc.net//problem/12865) <br/>
 [1027. 고층 건물-2025-04-19](https://www.acmicpc.net//problem/1027) <br/>
 [1027. 고층 건물-2025-04-19](https://www.acmicpc.net//problem/1027) <br/>
 [1027. 고층 건물-2025-04-19](https://www.acmicpc.net//problem/1027) <br/>
 [4485. 녹색 옷 입은 애가 젤다지?-2025-04-18](https://www.acmicpc.net//problem/4485) <br/>
 [4179. 불!-2025-04-18](https://www.acmicpc.net//problem/4179) <br/>
 [16234. 인구 이동-2025-04-18](https://www.acmicpc.net//problem/16234) <br/>
-[16496. 큰 수 만들기-2025-04-07](https://www.acmicpc.net//problem/16496) <br/>
 
 <!-- End BaekJoon -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdnrdl01)](https://solved.ac/alsdnrdl01/)
